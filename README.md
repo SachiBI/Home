@@ -1,2 +1,5 @@
 # Hello-world
-This is my first repository, ';jkdglkafjg
+
+This is my first repository, I am looking forward to learning more.
+
+
